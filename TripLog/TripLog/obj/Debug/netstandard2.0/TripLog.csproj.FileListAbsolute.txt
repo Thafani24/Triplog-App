@@ -1,0 +1,17 @@
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\bin\Debug\netstandard2.0\TripLog.deps.json
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\bin\Debug\netstandard2.0\TripLog.dll
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\bin\Debug\netstandard2.0\TripLog.pdb
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\TripLog.csproj.AssemblyReference.cache
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\TripLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\Views\NewEntryPage.xaml.g.cs
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\TripLog.AssemblyInfoInputs.cache
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\TripLog.AssemblyInfo.cs
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\TripLog.csproj.CoreCompileInputs.cache
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\TripLog.dll
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\refint\TripLog.dll
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\TripLog.pdb
+C:\Users\Sterling\source\repos\TripLog\TripLog\TripLog\obj\Debug\netstandard2.0\ref\TripLog.dll
